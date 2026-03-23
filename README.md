@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Engenharia de Software - Unifil - 4/8<br><br>🏡​ Londrina - PR<br> 📱 (43) 98488-6475<br>✉️ enzo.dutra.work@gmail.com</p>
+<p align="left">Engenharia de Software - 5/8<br><br>🏡​ Londrina - PR<br> 📱 (43) 98488-6475<br>✉️ enzo.dutra.work@gmail.com</p>
 
 ###
 
